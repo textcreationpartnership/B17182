@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against pretended caution to the inhabitants in every ward, in the choice of their Common-council.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17182</idno><idno type="EEBO-CITATION">99827500</idno>
+  <idno type="VID">207609</idno>
+  <idno type="EEBO-PROQUEST">2240911600</idno>
+  
+            <idno type="STC">Wing A3493A</idno>
+            <idno type="PROQUEST">99827500</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827500e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1922:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against pretended caution to the inhabitants in every ward, in the choice of their Common-council.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for R[ichard] Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Corporation of London --  Elections --  Early works to 1800.</term>
+               <term type="topical_term">Political campaigns --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:207609:1"/>
+            <head>An Antidote against Pretended Caution, To the INHABITANTS in every WARD, In the Choice of their <hi>COMMON-COƲNCIL.</hi>
+            </head>
+            <p>THE <hi>Cautioner</hi>'s Advice is like the Wolf's to a well-guarded flock of Sheep, which must be divided that it may become an easy Prey.</p>
+            <p>With such gentle Policy he would make several Religions, not only between Protestants conforming to Ceremonies, which the Wisdom of our late Parliament has left indifferent, and them who scruple the use of them; but between the strict adherers to them, and those who believe they may serve God acceptably, either with or without them.</p>
+            <p>That he may secure success with Men of different Capacities and Understandings, he has varied his Phrase in two several Editions; or rather some Bo<g ref="char:EOLhyphen"/>dy, less a Stranger to common Sense, has lent him some in a friendly correction, with a small sprink<g ref="char:EOLhyphen"/>ling of Salt.</p>
+            <p>One Edition will have it, That <hi>our Disease is grown desperate, and will soon be incurable, unless we do herein countermine our Adversaries.</hi> It seems he has a Faculty of curing <hi>desperate Diseases.</hi> In<g ref="char:EOLhyphen"/>deed upon correction he says, the Disease is <hi>growing desperate.</hi> There, he says, the <hi>Adversaries are both vigilant and secret (and so most dangerous) A<g ref="char:EOLhyphen"/>gents;</hi> but in the first 'tis, they are <hi>[invisible]</hi> and <hi>so more dangerous:</hi> and indeed most of the <hi>Adver<g ref="char:EOLhyphen"/>saries</hi> to the <hi>settled Religion,</hi> for which he would be thought very zealous, are of his own conjuring up, and <hi>invisible</hi> to all that are unacquainted with his Spell.</p>
+            <p>To follow the Example of them who compos'd the Form of Prayers for the Restoration of their Prince, whom they say the Sins of Priest and Peo<g ref="char:EOLhyphen"/>ple have kept out; this Writer has his Litany too.</p>
+            <p>
+               <hi>According to one Edition.</hi>
+            </p>
+            <q rend="margQuotes">But let us chuse such as have been constant to our settled Religion, not easily swayed by Faction, nor byass'd by Interest, joining with us in Wor<g ref="char:EOLhyphen"/>ship, and in Design with our Enemies; <hi>[who can]</hi> be in the Morning a Church-man, and in the Evening for Separation, <hi>[and if the Wind turn the next day, join with the Papist in pulling down our Fences to bring in Popery]</hi> By which our Church and Government is first divided, weak<g ref="char:EOLhyphen"/>ned, undermined, and at last betrayed. <hi>From all such, as from our worst Enemies,</hi> let us pray, <hi>Good Lord deliver Vs.</hi>
+            </q>
+            <p>
+               <hi>The other Edition.</hi>
+            </p>
+            <q rend="margQuotes">But such as have been constant to our settled Religion, not easily swayed by Faction, nor by<g ref="char:EOLhyphen"/>ass'd by Interest; joining with us in Worship, and in their Designs with our Enemies, be in the Morning a Church-man, and in the Evening for Separation. By which our Church and Govern<g ref="char:EOLhyphen"/>ment is first divided, weakned, undermined, and at last betrayed. <hi>From such, as from our worst Enemies,</hi> let us all pray, <hi>Good Lord deliver Vs.</hi>
+            </q>
+            <p>Notwithstanding the great noise Men of that Opinion, which this Writer professes, make for <hi>Ca<g ref="char:EOLhyphen"/>tholick Communion;</hi> according to one Edition, they who are ready to communicate with Protestants of several Denominations, are to be prayed against as the <hi>worst Enemies</hi> to the <hi>Church and Government;</hi> Which is demonstration, that such Men plant both, upon a Bottom divided from common Prote<g ref="char:EOLhyphen"/>stancy.</p>
+            <p>According to the other Edition, all who are of such generous Principles, as not to confine the Re<g ref="char:EOLhyphen"/>formed Religion to a Party, are upon that account uncharitably censured, as ready to <hi>join with the Pa<g ref="char:EOLhyphen"/>pists in pulling down our Fences to bring in Popery.</hi> If indeed Ceremonies are the <hi>Fences,</hi> some will say they have many Briars and Thorns in them; and, perhaps, many good Men may, in a legal way, be for pulling them down, or here and there opening a Gap.</p>
+            <p>But it would seem strange if Papists should join with them in removing those Things, which were retain'd for their sakes by our First Reformers, who hop'd to win them over to us, and found the bene<g ref="char:EOLhyphen"/>fit of such their condescension, till the Papists were forbidden our Communion by the Pope. And ever since they have slighted the Invitation; and these <hi>Fences</hi> have serv'd only to keep out many, who pro<g ref="char:EOLhyphen"/>fess the Religion <hi>settled and establish'd</hi> among us.</p>
+            <p>They who labour to divide its Professors, there<g ref="char:EOLhyphen"/>in manifestly serve the only real <hi>Adversaries</hi> to it; as formerly they did, when under colour of <hi>Zeal</hi> for the <hi>Church,</hi> and <hi>Loyalty</hi> to the <hi>Crown,</hi> they re<g ref="char:EOLhyphen"/>signed the English Liberties into the Hands of the Papists, of whose Designs and Expectations they could not be ignorant.</p>
+            <pb n="2" facs="tcp:207609:2"/>
+            <p>But they thought their Merit would secure to them the Places and Profit which they got by their Treachery to their Country. And therefore they who surrendered Charters to have their own Names inserted in them, never apprehended any danger in that Clause, which gave the King a Power to turn them out at pleasure.</p>
+            <p>While they render'd our Religious and Civil Rights precarious, and encourag'd the late King to exercise an Arbitrary Power, to which they would have it believ'd that he had a Divine Right; 'tis certain, how much soever Religion was pretended, it was for the sake of having the Government with their Party: they had so weakned and impoverish'd them who oppos'd their raging fits of Loyalty, that themselves were put to stand the Shock alone; and too soon found how much better it would have been to have come earlier to that <hi>Temper</hi> with Dissenters, which then they held forth with both hands; and it was almost too late, that they were sensible of what befel them by standing upon too narrow a bottom.</p>
+            <p>But when the court complied with the Temp<g ref="char:EOLhyphen"/>tation, in finding them alone to receive the Effects of that Power, which they had incited a Popish Prince to exercise; then they shewed that the case was altered, when themselves were to suffer by it: Nor were any more forward than they to em<g ref="char:EOLhyphen"/>brace a Deliverance offer'd by his present Majesty, especially as soon as they found the late King not able to protect them.</p>
+            <p>Yet many of them soon appeared in their co<g ref="char:EOLhyphen"/>lours, and made it evident that they were not touch'd with any Sense of Gratitude to their pre<g ref="char:EOLhyphen"/>sent Majesties, or Concern for the Publick Good. But their Turn being serv'd, the late King having been oblig'd to take new measures, and giving them assurance that they should be uppermost, they were for trusting his <hi>Catholick,</hi> or rather <hi>Pu<g ref="char:EOLhyphen"/>nick</hi> Faith, and sending their present Majesties back uncrown'd: and that many of them are at this very day for re-calling the late King is past a Question. Some, tho they have sworn Allegiance to their present Majesties, maintain that the <hi>late King</hi> has an inseparable Right: Others absolutely disown this Government, and refuse to give assurance of Obedience to it. Some Church-men have com<g ref="char:EOLhyphen"/>pos'd a Form of Prayers, wherein they pray for its Confusion: and 'tis to be fear'd that many of the Laity are led by the shew of Devo<g ref="char:EOLhyphen"/>tion in them,<note place="margin">
+                  <q>Our holy Religion needs neither can<g ref="char:EOLhyphen"/>ting nor wheedling to set it off. <bibl>
+                        <hi>First Edit.</hi>
+                     </bibl>
+                  </q>
+               </note> which whatever the <hi>Cautioner</hi> talks of <hi>canting,</hi> have more of <hi>Cant,</hi> than, I dare say, is ordinarily to be heard among Dis<g ref="char:EOLhyphen"/>senters.</p>
+            <p>Of his Friends it is to be believed that numbers are meer <hi>Trimmers,</hi> who stand more divided be<g ref="char:EOLhyphen"/>tween two Kings, than those, whom he calls <hi>Adversa<g ref="char:EOLhyphen"/>ries</hi> are between the <hi>Church</hi> and separate Meetings; they stay for the Event of an expected Battel be<g ref="char:EOLhyphen"/>fore they think fit to declare themselves.</p>
+            <p>But surely all who have any value for the Reli<g ref="char:EOLhyphen"/>gion and Liberties of this Protestant Nation, will endeavour that no Man may be chosen at this time, who has not given good proof of his being en<g ref="char:EOLhyphen"/>tirely for the Interest of King <hi>William</hi> and Queen <hi>Mary;</hi> and therein for the Defence of the common Protestant Religion, which 'tis to be hop'd will no longer become a Term of Reproach among us.</p>
+            <p>Nor ought they who have been any way accesso<g ref="char:EOLhyphen"/>ry to those heavy Grievances, from which their Majesties have deliver'd us, to be trusted with means to betray this Great City; till they have brought forth <hi>Fruits meet for Repentance.</hi>
+            </p>
+            <p>This <hi>Cautioner</hi> advises the Inhabitants within the several Wards, not to chuse such as shall again in <hi>defiance to Prerogative,</hi> (or as the Corrector has it <hi>in defiance of Parliamentary Priviledges and Prerogative</hi>) <hi>affront</hi> the <hi>Wisdom and Authority of our Law-makers,</hi> in pescribing them <hi>Laws,</hi>
+               <note place="margin">The 2d Edit. <hi>weighty.</hi>
+               </note>
+               <hi>and sending obnoxious Am<g ref="char:EOLhyphen"/>bassadors on such sacred Errands.</hi>
+            </p>
+            <p>Wherein he shews himself to wish as well to the City of <hi>London,</hi> as they who would have its Char<g ref="char:EOLhyphen"/>ter forfeited for petitioning: and the Exercise of an undoubte Right of English-men is made an Offence against Prerogative, and breach of Parlia<g ref="char:EOLhyphen"/>mentary Priviledg. Men of this heighth have great reason, with this Writer, to observe <hi>the bleeding case of the Widows and Orphans, and that the City Government is out of frame.</hi> It is natural for them who have felt these things, to ask who they may thank for them? and to take care that it may not be imputed to themselves, for their foolish Confidence in Men, of whom they have had such woful Experience.</p>
+            <p>But observe the great Justice of these Men, and their Equallity in relation to themselves and others: for them who are not of their stamp to petition concerning the subject Matter of any Bill, before it has pass'd into a Law, is an heinous Offence a<g ref="char:EOLhyphen"/>gainst the <hi>Prerogative</hi> or <hi>Priviledg</hi> of Parliament, they know not which.</p>
+            <p>Yet it is very allowable in them to abhor Parlia<g ref="char:EOLhyphen"/>ments after they are dissolv'd, and to declaim against the fullest and truest Representatives of the Nation, before Corporations had been put <hi>out of frame</hi> by Arbitrary Judgments, and treacherous Surrenders: And after the great things which this present Par<g ref="char:EOLhyphen"/>liament has done, for them, they take a liberty in reflecting upon its <hi>Wisdom,</hi> and say the <hi>Government of the City</hi> settled by it, <hi>is out of frame,</hi> and their <hi>Freedom is</hi> still <hi>a Bondage:</hi> who therefore most <hi>affront the Wisdom and Authority of our Law<g ref="char:EOLhyphen"/>makers,</hi> is left to more equal Judges.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Baldwin,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
